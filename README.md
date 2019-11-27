@@ -3,15 +3,18 @@
 #### ==================================================================================
 This notebook is intended to give an easy introduction into data assimilation using
 the 4DVAR method, focusing on the fundamentals of forming a tangent linear model, using 
-a forward Euler time stepping scheme. It is performed first on the logisitic growth problem
-then on a Lorenz '63 model. 
+a forward Euler time stepping scheme. Data assimilation is how we integrate observations 
+into a numerical model to improve initial conditions and therefore improve forecasts. 
+
+Here, it is performed first on the logisitic growth problem then on a Lorenz '63 model. 
 
 We use Jupyter notebooks to drive the python code. The instructions for a setting up a jupyter 
 environment that will work for this project are below. Please contact me with any issues: 
 
 wchapman@ucsd.edu
 
-Big thanks to Aneesh Subramanian, and Bruce Cornuelle for some fundamental underpinnings of this project. 
+Big thanks to Aneesh Subramanian, and Bruce Cornuelle for some fundamental underpinnings of this project.
+
 #### ==================================================================================
 
 To run please follow these instructions: 
