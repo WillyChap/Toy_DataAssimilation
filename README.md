@@ -1,6 +1,18 @@
 # Toy_DataAssimilation
 
+#### ==================================================================================
+This notebook is intended to give a really easy introduction into data assimilation using
+the 4DVAR method, focusing on the fundamentals of forming an tangent linear model, using 
+a forward Euler time stepping schem. It is performed first on the logisitic growth problem
+then on a Lorenz '63 model. 
 
+We use Jupyter notebooks to drive the python code. The instructions for a setting up a jupyter 
+environment that will work for this project are below. Please contact me with any issues: 
+
+wchapman@ucsd.edu
+
+Big thanks to Aneesh Subramanian, and Bruce Cornuelle for some fundamental underpinnings. 
+### ==================================================================================
 
 To run please follow these instructions: 
 
