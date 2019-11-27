@@ -14,5 +14,20 @@ Create this anaconda environment (more on environments here: https://docs.conda.
 In Your Command line: 
 
 conda create -n AdjLorenz python=2.7 numpy matplotlib ipykernel
-source activate AdjLorenz
+
+source activate AdjLorenz    ####[if this command doesn't work try: "conda activate AdjLorenz"]
+
 python -m ipykernel install --user --name AdjLorenz --display-name "Python2.7 (AdjLorenz)"
+
+
+
+
+Then start jupyter
+
+command line: 
+
+jupyter notebook 
+
+This will open a browser window showing your computers file archetecture. Select "Adjoint Model for Data Assimilation.ipynb"
+
+a notebook will open, and change the kernel to AdjLorenz [kernel > change kernel > Python2.7 (AdjLorenz)]
