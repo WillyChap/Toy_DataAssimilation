@@ -55,7 +55,7 @@ jupyter notebook
 #### ==================================================================================
 
 #### step 5
-This will open a browser window showing your computers file architecture. Select "Adjoint Model for Data Assimilation.ipynb"
+This will open a browser window showing your computer file architecture. Select "Adjoint Model for Data Assimilation.ipynb"
 
 a notebook will open, and change the kernel to AdjLorenz [kernel > change kernel > Python2.7 (AdjLorenz)]
 
