@@ -1,7 +1,7 @@
 # Toy_DataAssimilation
 
 #### ==================================================================================
-This notebook is intended to give a really easy introduction into data assimilation using
+This notebook is intended to give an easy introduction into data assimilation using
 the 4DVAR method, focusing on the fundamentals of forming an tangent linear model, using 
 a forward Euler time stepping schem. It is performed first on the logisitic growth problem
 then on a Lorenz '63 model. 
