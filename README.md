@@ -12,7 +12,7 @@ environment that will work for this project are below. Please contact me with an
 wchapman@ucsd.edu
 
 Big thanks to Aneesh Subramanian, and Bruce Cornuelle for some fundamental underpinnings of this project. 
-### ==================================================================================
+#### ==================================================================================
 
 To run please follow these instructions: 
 
