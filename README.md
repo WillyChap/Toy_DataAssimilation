@@ -14,7 +14,7 @@ Create an anaconda environment (more on environments here: https://docs.conda.io
 
 
 
-#### ====================================================================================
+#### ==================================================================================
 
 ## In Your Command line: 
 
@@ -37,7 +37,7 @@ python -m ipykernel install --user --name AdjLorenz --display-name "Python2.7 (A
 #### step 4
 jupyter notebook 
 
-#### ======================================================================================
+#### ==================================================================================
 
 This will open a browser window showing your computers file archetecture. Select "Adjoint Model for Data Assimilation.ipynb"
 
