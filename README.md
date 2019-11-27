@@ -14,7 +14,7 @@ Create an anaconda environment (more on environments here: https://docs.conda.io
 
 
 
-#### ======================================================================================
+#### ====================================================================================
 
 ## In Your Command line: 
 
@@ -25,7 +25,7 @@ conda create -n AdjLorenz python=2.7 numpy matplotlib ipykernel
 
 source activate AdjLorenz    
 
-####[if this command doesn't work try: "conda activate AdjLorenz"]
+#### [if this command doesn't work try: "conda activate AdjLorenz"]
 
 #### step 3 
 python -m ipykernel install --user --name AdjLorenz --display-name "Python2.7 (AdjLorenz)"
