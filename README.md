@@ -8,7 +8,7 @@ To run please follow these instructions:
 Download Anaconda: 
 https://www.anaconda.com/distribution/
 
-Create this anaconda environment (more on environments here: https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) 
+Create an anaconda environment (more on environments here: https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) 
 
 
 
